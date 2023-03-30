@@ -1,5 +1,5 @@
 # 🌦️ Welcome to the Weather app
-See the deployed app here: https://week12-hackathon-weather.onrender.com
+<!--See the deployed app here: https://week12-hackathon-weather.onrender.com-->
 
 <img width="450px" src="https://user-images.githubusercontent.com/104497542/210892523-c20e3201-5ae0-4a48-92a6-4612a91572f8.png"/>
 
